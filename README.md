@@ -34,9 +34,9 @@ The game which you have entered into...
 -------
 
 
-The first page will ask for the players names. The first name must be populated (or is given as a default 'marketeer'). The second player is the computer.
+The first page will ask for the players names. You can either fill in your first name or leave it as the given default, 'marketeer'. The second player is the computer.
 
-Player one is then asked to choice between three options.
+You, as player one, will then be able to choice between three options by pressing the rock paper or scissors button. In order to avoid the bitter disappointment which will then follow, please navigate to the bad news section of this readme... 
 
 
 
